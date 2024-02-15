@@ -1,5 +1,6 @@
 google-generativeai
 bs4
+lxml
 streamlit
 streamlit_lottie
 pandas

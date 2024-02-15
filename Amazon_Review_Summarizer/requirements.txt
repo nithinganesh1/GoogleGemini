@@ -1,0 +1,5 @@
+google-generativeai
+python==3.11
+streamlit
+streamlit_lottie
+pandas

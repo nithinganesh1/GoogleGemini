@@ -1,5 +1,5 @@
 google-generativeai
-python==3.11
+python==3.9
 streamlit
 streamlit_lottie
 pandas

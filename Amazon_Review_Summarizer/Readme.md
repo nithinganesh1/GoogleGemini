@@ -19,6 +19,7 @@ The app can only be used by entering Amazon product links.
 ![image](https://github.com/nithinganesh1/GoogleGemini/assets/122164879/c7c4cf43-f9be-4245-b782-1c649f210396)
 
 I have removed my Gemini API keys. You can now use your own API keys and try.
+
 https://ai.google.dev/?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqm5anTAxAO7OCYfDTiJKr0082QKLwu3xUtcPvkGR3Iwy55c9XTqjZhoCqmYQAvD_BwE
 
 genai.configure(api_key=st.secrets.GEMINI_AI_KEY) ---> genai.configure(api_key = "Your API")
